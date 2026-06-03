@@ -74,7 +74,7 @@ async function scrapeCollection(item: any) {
   const response = await axios.get(item.url);
   const $ = cheerio.load(response.data);
 
-  $("a").each(async (_, el) => {
+  $("a").each( (_, el) => {
     const rawText = $(el).text().replace(/\s+/g, " ").trim();
     const href = $(el).attr("href") || "";
 
