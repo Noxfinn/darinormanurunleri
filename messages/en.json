@@ -1,0 +1,16 @@
+{
+  "navbar": {
+    "home": "Home",
+    "products": "Products",
+    "about": "Corporate",
+    "catalogs": "Catalogs",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "title": "Premium Door Systems For Modern Interiors",
+    "description": "Professional solutions in door, frame and molding production.",
+    "catalog": "View Catalog",
+    "offer": "Get Quote"
+  }
+}

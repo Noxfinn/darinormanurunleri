@@ -1,0 +1,16 @@
+{
+  "navbar": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "about": "Kurumsal",
+    "catalogs": "Kataloglar",
+    "contact": "İletişim"
+  },
+
+  "hero": {
+    "title": "Modern İç Mekanlar İçin Premium Kapı Sistemleri",
+    "description": "Kapı, kapı kasası ve pervaz üretiminde profesyonel çözümler sunuyoruz.",
+    "catalog": "Kataloğu İncele",
+    "offer": "Teklif Al"
+  }
+}
